@@ -7,7 +7,7 @@ import logo from "../assets/logowhite.png";
 
 import { client } from "../client";
 
-export const Login = () => {
+const Login = () => {
   const navigate = useNavigate();
 
   const responseGoogle = (response) => {
@@ -49,7 +49,7 @@ export const Login = () => {
               render={(renderProps) => (
                 <button
                   type="button"
-                  className="bg-mainColor flex justify-center items-center p-3 mt-6 rounded-lg cursor-pointer outline-none"
+                  className="bg-mainColor flex justify-center items-center p-3 mt-10 rounded-lg cursor-pointer outline-none"
                   onClick={renderProps.onClick}
                   disabled={renderProps.disabled}
                 >
@@ -66,3 +66,4 @@ export const Login = () => {
     </div>
   );
 };
+export default Login;
