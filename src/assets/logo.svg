@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="383" height="149" viewBox="0 0 383 149">
+  <text id="SOCIAL" transform="translate(5 49)" fill="#fff" font-size="50" font-family="Lato-Regular, Lato" letter-spacing="0.8em"><tspan x="0" y="0">SOCIAL</tspan></text>
+  <text id="by" transform="translate(175 96)" fill="#fff" font-size="30" font-family="Lato-Regular, Lato"><tspan x="0" y="0">by</tspan></text>
+  <text id="Jordi_Franssen" data-name="Jordi Franssen" transform="translate(0 143)" fill="#fff" font-size="30" font-family="Lato-Regular, Lato" letter-spacing="0.5em"><tspan x="0" y="0">Jordi Franssen</tspan></text>
+  <line id="Line_1" data-name="Line 1" x2="164" transform="translate(0 84)" fill="none" stroke="#fff" stroke-width="1"/>
+  <line id="Line_2" data-name="Line 2" x2="164" transform="translate(218 84)" fill="none" stroke="#fff" stroke-width="1"/>
+</svg>
